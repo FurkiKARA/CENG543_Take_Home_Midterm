@@ -1,0 +1,14 @@
+torch==2.3.1
+torchtext==0.18.0
+transformers
+datasets
+scikit-learn
+matplotlib
+spacy
+rank_bm25
+evaluate
+rouge_score
+bert_score
+captum
+numpy
+tqdm
