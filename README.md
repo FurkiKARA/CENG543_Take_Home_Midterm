@@ -24,7 +24,7 @@ The submission archive is organized as follows:
     * `Q5_Interpretability.ipynb`: Model interpretability using Captum (Integrated Gradients).
 * **`Report/`**: Contains the detailed project report in PDF format (LaTeX generated).
 * **`Data/`**: This folder is left empty to minimize file size. The code is designed to automatically download necessary datasets (IMDb, Multi30k, SQuAD) and embeddings (GloVe) upon execution.
-* **`Models/`**: This folder is left empty. Models are trained during the execution of the notebooks.
+
 
 ---
 
